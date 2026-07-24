@@ -1,0 +1,2 @@
+to install all dependencies
+pip install groq python-dotenv pydantic instructor openai
